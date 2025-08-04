@@ -1,0 +1,4 @@
+deepface==0.0.79
+opencv-python
+tensorflow
+keras
